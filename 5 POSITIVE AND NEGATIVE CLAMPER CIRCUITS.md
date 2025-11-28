@@ -13,12 +13,16 @@
 
 
 # Tabulation
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/64dec33b-80bb-476b-8d6d-6ecb04d0dfad" />
 
 
 # Graph
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e0c8b628-0d46-482b-bc61-ef76bfa39720" />
 
 # Sample images 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d2cbb409-7392-45d2-93e6-6faa0430d842" />
 
 
 # Result
+thus different clampers circuit are studied and thier output waveform are pllotted
