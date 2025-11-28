@@ -16,8 +16,10 @@
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
 |            |              |                      |                        |
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/09e8aebf-5cf1-4262-84c8-2c10d428e05a" />
 
 # Graph
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3f206f23-b293-45ca-9e3a-6b4ac44a514b" />
 
 
 
