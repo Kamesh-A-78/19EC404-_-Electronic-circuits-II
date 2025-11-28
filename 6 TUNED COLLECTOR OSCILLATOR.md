@@ -6,7 +6,7 @@
 
 # Circuit Diagram 
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b0ee6ec5-5061-45b8-9ff0-850299bcd393" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/6404394c-1228-4bb7-bc20-c6f1b52951d4" />
 
 
 # Output Graph
@@ -14,5 +14,5 @@
 
 
 # Result
-thus the simulation of twin t oscillator using ltspice is done and verified.
+thus the simulation of tuned oscillator using ltspice is done and verified.
 
