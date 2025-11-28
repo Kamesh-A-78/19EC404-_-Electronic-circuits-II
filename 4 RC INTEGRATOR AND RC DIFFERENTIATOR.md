@@ -21,13 +21,15 @@
 <img width="437" height="331" alt="image" src="https://github.com/user-attachments/assets/ac12584c-7c60-4baa-a8e2-a0d1bd24150e" />
 
 # Tabulation
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/67414f6d-2896-4880-82c5-d0834257b950" />
 
 
 # Graph
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ee1744fd-e234-4668-a760-81497ca6ed0f" />
 
 
 # Sample images 
 
 
 # Result
-
+thus the integrator and differentiator was designed and graoh was plotted.
