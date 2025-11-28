@@ -20,9 +20,11 @@
 |            |              |                      |                        |
 
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/03b5db19-b49d-46c4-a79d-0d08a4d74795" />
 
 # Graph
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e71175a9-f9e3-4a0f-8659-7f9b6675abbf" />
 
 # Sample images 
 
@@ -32,6 +34,6 @@
 
 Thus, the **WEIN BRIDGE OSCILLATOR** was designed for the given frequency.
 
-- **(i) Theoretical Frequency:**  
-- **(ii) Practical Frequency:**  
+- **(i) Theoretical Frequency: 50 hz
+- **(ii) Practical Frequency: 50.01 hz
 
