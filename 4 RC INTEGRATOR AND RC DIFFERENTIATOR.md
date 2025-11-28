@@ -26,6 +26,7 @@
 
 # Graph
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ee1744fd-e234-4668-a760-81497ca6ed0f" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/10c6e875-ae2a-474c-972e-19ec4aa730f4" />
 
 
 # Sample images 
