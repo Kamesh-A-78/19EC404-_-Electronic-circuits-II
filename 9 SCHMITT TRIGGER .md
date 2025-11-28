@@ -6,6 +6,7 @@
 
 # Circuit Diagram 
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9cccd397-6ff0-4157-97c1-2dde88763527" />
 
 
 # Output Graph
@@ -13,4 +14,4 @@
 
 
 # Result
-
+thus simulation of SCHMITT TRIGGER USING LTSPICE is done and verified.
