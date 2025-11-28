@@ -16,9 +16,11 @@
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
 |            |              |                      |                        |
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d72d87b2-4b67-4dd1-b6cd-a33c73822481" />
 
 # Graph
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e3c89ce8-1f05-4d34-9719-93a099c0c6e3" />
 
 # Sample images 
 
@@ -27,5 +29,5 @@
 
 Thus, the **COLPITTS OSCILLATOR** was designed for the given frequency.
 
-- **(i) Theoretical Frequency:**  
-- **(ii) Practical Frequency:**  
+- **(i) Theoretical Frequency:50hz 
+- **(ii) Practical Frequency:50.07hz
